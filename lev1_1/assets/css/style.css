@@ -1,0 +1,14 @@
+*{
+     margin: 0;
+    padding: 0;
+}
+
+div{
+    background-color: green;
+    width: 200px;
+    padding: 25px;
+    border: 25px solid black;
+    margin: 25px;
+    margin-right: auto;
+    margin-left: auto;
+}
